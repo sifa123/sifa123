@@ -1,4 +1,7 @@
 # Hi 👋 I am Sefat Siddiquea Sifa 
+![Profile Views](https://komarev.com/ghpvc/?username=sifa123&style=flat-square&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/sifa123.svg?style=flat-square&color=blue&label=Followers)](https://github.com/sifa123?tab=followers)
+
 - 🔭 I’m currently working on ...Web development
 - 🌱 I’m currently learning ...Angular
 - 👯 I’m looking to collaborate on ...Angular
