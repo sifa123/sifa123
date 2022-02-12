@@ -14,3 +14,4 @@
 ## My Articles in GeeksForGeeks :tada:
 1. [How to call JavaScript function in HTML ?](https://www.geeksforgeeks.org/how-to-call-javascript-function-in-html/)
 2. [How to create image slider using HTML CSS and JavaScript ?](https://www.geeksforgeeks.org/how-to-create-image-slider-using-html-css-and-javascript/)
+3. [What is Data Mining Trends and Research Frontiers?](https://www.geeksforgeeks.org/what-is-data-mining-trends-and-research-frontiers/)
